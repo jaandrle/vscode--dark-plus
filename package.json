@@ -3,6 +3,11 @@
     "displayName": "Dark+ (jaandrle)",
     "description": "",
     "version": "0.0.1",
+    "publisher": "jaandrle",
+    "author": {
+        "name": "Jan Andrle",
+        "email": "andrle.jan@centrum.cz"
+    },
     "engines": {
         "vscode": "^1.53.0"
     },
