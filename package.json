@@ -1,0 +1,21 @@
+{
+    "name": "dark-plus--jaandrle",
+    "displayName": "Dark+ (jaandrle)",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark+ (jaandrle)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark+ (jaandrle)-color-theme.json"
+            }
+        ]
+    }
+}
