@@ -1,5 +1,7 @@
 # README
-## This is the README for your extension "dark---green-comments-"
+## This is the README for your extension (theme) "Dark+ (jaandrle)"
+Based on [How to Create a Custom VS Code Theme (2020) | Step-by-Step | Debut of codeSTACKr Dark Theme](https://youtu.be/QCqWzb-9Sy8).
+
 You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
 * Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
